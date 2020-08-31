@@ -1,0 +1,30 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cargo",
+			"subcommand": "run",
+			"problemMatcher": [
+				"$rustc"
+			],
+			"label": "Rust: cargo run - src"
+		}
+	],
+	[
+        {
+            "label": "cargo run",
+            "type": "shell",
+            "command": "cargo",
+            "args": [
+                "run",
+                // "--release",
+                // "--",
+                // "arg1"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+Contact_Profile
+Name: 
+BOD: 
+Age: 
+Birthday_Present: 
+Relation: 
+Residence: 
+
+
