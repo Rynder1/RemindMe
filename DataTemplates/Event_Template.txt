@@ -1,0 +1,8 @@
+Event_Profile
+Name: {string}
+Date: {date}
+Time: {time}
+Location: {string}
+Host: {string/person}
+Dress_Code: {string}
+Need_To_Bring: {string}

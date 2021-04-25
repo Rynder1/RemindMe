@@ -1,0 +1,12 @@
+Contact_Profile
+First_Name: {string}
+Middle_Name: {string}
+Last_Name: {string}
+BOD: {date}
+Age: {int}
+Relation: {string}
+Address: {string}
+Likes: {string}
+Dislikes: {string}
+Phone_Number: {string}
+Email: {string}
